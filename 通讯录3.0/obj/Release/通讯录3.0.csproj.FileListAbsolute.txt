@@ -1,0 +1,15 @@
+C:\Users\Jay Wang\Desktop\C#\通讯录3.0\通讯录3.0\bin\Release\通讯录3.0.exe.config
+C:\Users\Jay Wang\Desktop\C#\通讯录3.0\通讯录3.0\bin\Release\通讯录3.0.exe
+C:\Users\Jay Wang\Desktop\C#\通讯录3.0\通讯录3.0\bin\Release\通讯录3.0.pdb
+C:\Users\Jay Wang\Desktop\C#\通讯录3.0\通讯录3.0\obj\Release\通讯录3._0.addperson.resources
+C:\Users\Jay Wang\Desktop\C#\通讯录3.0\通讯录3.0\obj\Release\通讯录3._0.findperson.resources
+C:\Users\Jay Wang\Desktop\C#\通讯录3.0\通讯录3.0\obj\Release\通讯录3._0.menu.resources
+C:\Users\Jay Wang\Desktop\C#\通讯录3.0\通讯录3.0\obj\Release\通讯录3._0.Properties.Resources.resources
+C:\Users\Jay Wang\Desktop\C#\通讯录3.0\通讯录3.0\obj\Release\通讯录3._0.registered.resources
+C:\Users\Jay Wang\Desktop\C#\通讯录3.0\通讯录3.0\obj\Release\通讯录3._0.showperson.resources
+C:\Users\Jay Wang\Desktop\C#\通讯录3.0\通讯录3.0\obj\Release\通讯录3._0.joinin.resources
+C:\Users\Jay Wang\Desktop\C#\通讯录3.0\通讯录3.0\obj\Release\通讯录3.0.csproj.GenerateResource.cache
+C:\Users\Jay Wang\Desktop\C#\通讯录3.0\通讯录3.0\obj\Release\通讯录3.0.csproj.CoreCompileInputs.cache
+C:\Users\Jay Wang\Desktop\C#\通讯录3.0\通讯录3.0\obj\Release\通讯录3.0.exe
+C:\Users\Jay Wang\Desktop\C#\通讯录3.0\通讯录3.0\obj\Release\通讯录3.0.pdb
+C:\Users\Jay Wang\Desktop\C#\通讯录3.0\通讯录3.0\obj\Release\通讯录3.0.csprojAssemblyReference.cache
